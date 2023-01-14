@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Food</string>
+    <string name="welcome_msg">Welcome User</string>
+</resources>
